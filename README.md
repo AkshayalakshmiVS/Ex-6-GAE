@@ -1,5 +1,5 @@
 
-# Ex-6-GAE
+# Ex NO:6B-GAE
 Date:
 Aim:
 ToinstallGoogleAppEngine.Createhelloworldappandothersimplewebapplicationsusingpython/java
